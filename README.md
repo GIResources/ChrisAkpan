@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian Akpan (@GIResources)
-- 👀 I’m interested in Web Development and Data Analytics
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript, REACT Projects.
+- 👀 I’m interested in Software Engineering | Fullstack Web Development | Data Science | Python | Data Analytics
+- 🌱 I’m currently learning JavaScript | .Net Framework | Laravel
+- 💞️ I’m looking to collaborate on JavaScript, REACT and Laravel Projects.
 - 📫 How to reach me cfa.chrisakpan@gmail.com or +2347039485184 (WhatsApp)
 
 <!---
